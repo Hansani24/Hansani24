@@ -120,6 +120,7 @@ A CNN-based image-classification prototype for sorting waste into plastic, paper
 ![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=FFD43B)
 ![R](https://img.shields.io/badge/R-1E293B?style=flat-square&logo=r&logoColor=276DC3)
 ![SQL](https://img.shields.io/badge/SQL-1E293B?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![React](https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=009688)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1E293B?style=flat-square&logo=streamlit&logoColor=FF4B4B)
