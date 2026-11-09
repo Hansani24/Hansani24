@@ -106,7 +106,7 @@ A CNN-based image-classification prototype for sorting waste into plastic, paper
 
 ## `> technical_toolkit`
 
-**AI, machine learning & retrieval**
+**AI, machine learning**
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1E293B?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-1E293B?style=flat-square)
@@ -117,7 +117,7 @@ A CNN-based image-classification prototype for sorting waste into plastic, paper
 ![YOLO](https://img.shields.io/badge/YOLO-1E293B?style=flat-square&logo=ultralytics&logoColor=00FFFF)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 
-**Programming, apps & APIs**
+**Programming**
 
 ![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=FFD43B)
 ![R](https://img.shields.io/badge/R-1E293B?style=flat-square&logo=r&logoColor=276DC3)
