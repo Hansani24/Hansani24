@@ -2,13 +2,13 @@
 
 <img src="./Hansani%20Bandara_%20AI%20EarthTech%20Vision.png" alt="Hansani Bandara — AI and Machine Learning Developer" width="100%" />
 
-<br>
+<br />
 
-**Building practical AI systems for complex, real-world challenges.**
+**Engineering AI solutions for real-world challenges.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-136F85?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hansani-bandara-453686278/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-7048A5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hansanibandara6@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Hansani24-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hansani24)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-7048A5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hansanibandara6@gmail.com)
 
 </div>
 
@@ -16,15 +16,15 @@
 
 ## `> about_me`
 
-I'm **Hansani Bandara**, an AI and machine learning developer with a background in applied data science. I build applications that connect **language models, computer vision, geospatial data, and cloud workflows** to practical problems.
+I'm **Hansani Bandara**, an **AI & Machine Learning Developer** with a background in **Applied Data Science and Communication**. My experience at the **International Water Management Institute (IWMI)** spans AI consulting and research, working with **retrieval-augmented generation (RAG), vector databases, geospatial data, computer vision, and workflow automation**.
 
-My interests lie in **reliable AI systems**—especially tools that make complex information easier to access, analyze, and use for decisions in water and environmental research.
+I enjoy building AI systems that connect research and engineering—making complex information more accessible, useful, and actionable.
 
 ---
 
-## `> selected_work`
+## `> featured_work`
 
-A selection of AI engineering and research projects I've worked on:
+Projects and prototypes spanning applied AI, research, and engineering:
 
 <table>
 <tr>
@@ -32,18 +32,18 @@ A selection of AI engineering and research projects I've worked on:
 
 ### 🌊 AI-assisted water policy assessment
 
-**LLMs · RAG · Document AI · Python**
+**`LLMs` `RAG` `Vector Search` `Python`**
 
-Developed workflows for multilingual water-policy document analysis, evidence retrieval, and structured AI-assisted scoring—with an emphasis on traceable sources and reproducible assessments.
+Developed workflows for multilingual policy-document analysis, evidence retrieval, and structured AI-assisted scoring, with an emphasis on traceable sources and repeatable assessments.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛰️ Wastewater infrastructure detection
 
-**YOLO · Computer Vision · Geospatial AI · Google Cloud**
+**`Computer Vision` `YOLO` `Geospatial Data` `Apache Airflow`**
 
-Contributed to workflows for detecting wastewater infrastructure in geospatial imagery and automating processing with cloud services.
+Contributed to geospatial workflows for detecting wastewater infrastructure and automating processing through cloud-based orchestration.
 
 </td>
 </tr>
@@ -52,28 +52,28 @@ Contributed to workflows for detecting wastewater infrastructure in geospatial i
 
 ### 🗺️ Flood-aware evacuation routing
 
-**Python · Geospatial Analysis · Flood Risk · Routing**
+**`Python` `Geospatial Analysis` `Flood Risk` `Routing`**
 
-Worked on a flood-scenario prototype that evaluates road accessibility and potential evacuation routes using flood-depth, terrain, and network information.
+Worked on a prototype assessing road accessibility and potential evacuation routes using flood-depth scenarios, terrain, and road-network information.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎙️ Sinhala knowledge-grounded voice assistant
 
-**Gemini Live · Speech AI · RAG · Python**
+**`Gemini Live` `Speech AI` `RAG` `Python`**
 
-Built a Sinhala voice-assistant prototype connecting real-time speech interaction with a defined knowledge base to support grounded responses.
+Built a Sinhala-language voice assistant prototype combining live speech interaction with retrieval from a defined knowledge base to support grounded responses.
 
 </td>
 </tr>
 </table>
 
-> **A note on project access:** Some work was developed in collaborative or research settings. Code, data, and deployment details are shared publicly only when permitted.
+> **Project access:** Some work was developed in research or collaborative settings. Source code, datasets, and deployment details are shared publicly only where permitted.
 
 ---
 
-## `> open_source_projects`
+## `> public_repositories`
 
 <table>
 <tr>
@@ -81,7 +81,7 @@ Built a Sinhala voice-assistant prototype connecting real-time speech interactio
 
 ### 🧠 [HealthMate AI](https://github.com/Hansani24/HealthMate)
 
-An AI-powered health-habit coaching web app with conversational guidance, habit scores, trend visualizations, and curated learning resources.
+An AI-powered health-habit coaching web application with conversational guidance, habit scoring, trend visualization, and curated learning resources.
 
 **`Flask` `OpenAI` `Hugging Face` `Chart.js`**
 
@@ -92,7 +92,7 @@ An AI-powered health-habit coaching web app with conversational guidance, habit 
 
 ### ♻️ [Smart Intelligent Waste Segregator](https://github.com/Hansani24/Waste-Management-System-)
 
-A CNN-based prototype for classifying waste images into categories such as plastic, paper, metal, and food.
+A CNN-based image-classification prototype for sorting waste into plastic, paper, metal, and food categories.
 
 **`Python` `TensorFlow` `Keras` `CNN`**
 
@@ -106,47 +106,56 @@ A CNN-based prototype for classifying waste images into categories such as plast
 
 ## `> technical_toolkit`
 
-**Languages & data**
+**AI, machine learning & retrieval**
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1E293B?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-1E293B?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-1E293B?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1E293B?style=flat-square&logo=langchain&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1E293B?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+
+**Programming, apps & APIs**
 
 ![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=FFD43B)
-![SQL](https://img.shields.io/badge/SQL-1E293B?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=3178C6)
-
-**AI & machine learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1E293B?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1E293B?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![RAG](https://img.shields.io/badge/RAG%20%26%20LLMs-1E293B?style=flat-square&logo=openai&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1E293B?style=flat-square)
-
-**Applications & cloud**
-
+![R](https://img.shields.io/badge/R-1E293B?style=flat-square&logo=r&logoColor=276DC3)
+![SQL](https://img.shields.io/badge/SQL-1E293B?style=flat-square)
+![React](https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=009688)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1E293B?style=flat-square&logo=streamlit&logoColor=FF4B4B)
-![Next.js](https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Geospatial, cloud & automation**
+
+![Geospatial Data](https://img.shields.io/badge/Geospatial%20Data-1E293B?style=flat-square)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-1E293B?style=flat-square&logo=apacheairflow&logoColor=017CEE)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-1E293B?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![Docker](https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=2496ED)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-1E293B?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032)
+
+**Analytics & reporting**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-1E293B?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Microsoft Report Builder](https://img.shields.io/badge/Microsoft%20Report%20Builder-1E293B?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-1E293B?style=flat-square)
 
 ---
 
-## `> beyond_the_code`
+## `> highlights`
 
-- 🏆 **1st Place — Data Odyssey 2023**, for the waste-segregation project
-- 🎓 Background in **Applied Data Science and Communication**
-- 🌍 Interested in **AI for water, sustainability, and social impact**
-- 🔎 Focused on **grounded, useful, and human-centered AI**
+- 💼 **AI Consultant & Research Intern experience — IWMI**
+- 🏆 **1st Place — Data Odyssey 2023**, for the Smart Intelligent Waste Segregator
+- ☁️ **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+- 📊 Experience with **Power BI and Microsoft Report Builder**, including child well-being reporting work
+- 🎨 Complementary strengths in **graphic design, web design, and technical communication**
 
 ---
 
 <div align="center">
 
-**Let's build technology that makes a difference.**
+**Building reliable AI. Turning data into impact.**
 
-[LinkedIn](https://www.linkedin.com/in/hansani-bandara-453686278/) · [Email](mailto:hansanibandara6@gmail.com) · [Explore my repositories](https://github.com/Hansani24?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/hansani-bandara-453686278/) · [Email](mailto:hansanibandara6@gmail.com) · [Repositories](https://github.com/Hansani24?tab=repositories)
 
-<sub>AI engineering · Applied machine learning · Real-world impact</sub>
+<sub>Applied AI · Geospatial intelligence · Cloud automation · Data science</sub>
 
 </div>
