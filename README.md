@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/Hansani%20Bandara_%20AI%20EarthTech%20Vision.png" alt="Hansani Bandara — AI and Machine Learning Developer" width="100%" />
+<img src="./Hansani%20Bandara_%20AI%20EarthTech%20Vision.png" alt="Hansani Bandara — AI and Machine Learning Developer" width="100%" />
 
 ### Building intelligent systems for real-world impact
 
