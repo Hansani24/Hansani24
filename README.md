@@ -112,6 +112,7 @@ A CNN-based image-classification prototype for sorting waste into plastic, paper
 ![RAG](https://img.shields.io/badge/RAG-1E293B?style=flat-square)
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-1E293B?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1E293B?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1E293B?style=flat-square&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1E293B?style=flat-square)
 ![YOLO](https://img.shields.io/badge/YOLO-1E293B?style=flat-square&logo=ultralytics&logoColor=00FFFF)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=FF6F00)
@@ -130,9 +131,11 @@ A CNN-based image-classification prototype for sorting waste into plastic, paper
 
 ![Geospatial Data](https://img.shields.io/badge/Geospatial%20Data-1E293B?style=flat-square)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-1E293B?style=flat-square&logo=apacheairflow&logoColor=017CEE)
+![Docker](https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=2496ED)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-1E293B?style=flat-square&logo=googlecloud&logoColor=4285F4)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-1E293B?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1E293B?style=flat-square&logo=githubactions&logoColor=2088FF)
 
 **Analytics & reporting**
 
