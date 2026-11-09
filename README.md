@@ -113,6 +113,7 @@ A CNN-based image-classification prototype for sorting waste into plastic, paper
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-1E293B?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1E293B?style=flat-square&logo=langchain&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1E293B?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLOv8-1E293B?style=flat-square&logo=ultralytics&logoColor=00FFFF)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 
 **Programming, apps & APIs**
